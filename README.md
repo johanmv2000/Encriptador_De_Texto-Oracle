@@ -44,6 +44,6 @@ Las "llaves" de encriptación utilizadas:
 **Visualiación de la página web:**  
   
 
-[**Ir a la página** 🦝](https://encriptador-oracle-johan.netlify.app/)
+[**Ir a la página** ☝️🤓](https://encriptador-oracle-johan.netlify.app/)
 
 ---
