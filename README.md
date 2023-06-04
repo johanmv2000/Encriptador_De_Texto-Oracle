@@ -1,7 +1,5 @@
 # Encriptador de Texto | Oracle Next Education
 
-Link del proyecto al final ⬇
-
 [![Captura-de-pantalla-2023-06-03-233941.png](https://i.postimg.cc/59rp4VBL/Captura-de-pantalla-2023-06-03-233941.png)](https://postimg.cc/dD8G6gSV)
 
 ---
